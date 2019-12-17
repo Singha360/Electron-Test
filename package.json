@@ -8,10 +8,10 @@
   "scripts": {
     "start": "electron main.js"
   },
-    "build":{
-      "appID" : "com.shopping.app",
-      "productName" : "Shopping List"
-    },
+  "build": {
+    "appID": "com.shopping.app",
+    "productName": "Shopping List"
+  },
   "keywords": [
     "shopping",
     "list"
